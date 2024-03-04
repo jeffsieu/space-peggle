@@ -1,0 +1,32 @@
+enum ComponentId: Saveable, Hashable {
+    case transform
+    case physicsObject
+    case sprite
+    case peg
+    case shouldRemove
+    case outOfBounds
+    case cannonBall
+    case delta
+    case cannon
+    case aimPoint
+    case bucket
+    case scoringPeg
+    case stubbornPeg
+    case winningPeg
+    case gameStatus
+    case ballsLeft
+    case sideWall
+    case topWall
+    case bottomWall
+    case powerUpPeg
+    case powerUpChoice
+    case spookyActive
+    case zIndex
+    case shouldKaboom
+    case gravityImpulse
+    case health
+    case freelyResizable
+    case block
+    case sounds
+    case score
+}

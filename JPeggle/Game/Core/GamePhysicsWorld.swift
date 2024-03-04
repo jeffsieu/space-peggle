@@ -1,0 +1,1 @@
+typealias GamePhysicsWorld = PhysicsWorld<GameCollisionLayer>

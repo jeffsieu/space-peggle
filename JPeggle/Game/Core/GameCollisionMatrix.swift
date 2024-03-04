@@ -1,0 +1,1 @@
+typealias GameCollisionMatrix = CollisionMatrix<GameCollisionLayer>
